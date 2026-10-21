@@ -1,0 +1,5 @@
+# Réglages du site : GitHub Pages les lit avec Jekyll
+title: Mon petit site
+description: Trois pages en Markdown, publiées par GitHub Pages
+exclude:
+  - README.md
